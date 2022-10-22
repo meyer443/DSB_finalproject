@@ -1,0 +1,272 @@
+SYear,Species,cpue,Common_name,Func_group,Func_ID
+2009,106,0.2,Alewife,Planktivore,2
+2009,108,3.28125,Gizzard Shad,Piscivore,4
+2009,109,6.484210526315789,Rainbow Smelt,Planktivore,2
+2009,119,0.13333333333333333,Channel Catfish,Piscivore,4
+2009,131,27.770833333333332,Trout-Perch,General_invertivore,3
+2009,132,10.095454545454546,White Perch,Piscivore,4
+2009,133,2.118181818181818,White Bass,Piscivore,4
+2009,134,0.465,Freshwater Drum,Benthic_invertivore,1
+2009,202,0.1,Cisco,Planktivore,2
+2009,203,0.5666666666666667,Lake Whitefish,Benthic_invertivore,1
+2009,402,0.4842105263157895,Carp,Omnivore,5
+2009,403,0.18,Quillback,Benthic_invertivore,1
+2009,405,1.008695652173913,White Sucker,Benthic_invertivore,1
+2009,413,0.15000000000000002,Shorthead Redhorse,Benthic_invertivore,1
+2009,504,1.74,Emerald Shiner,General_invertivore,3
+2009,508,12.633333333333333,Spottail Shiner,General_invertivore,3
+2009,510,6.7700000000000005,Sand Shiner,Omnivore,5
+2009,707,0.2833333333333333,Logperch,Benthic_invertivore,1
+2009,801,39.30416666666667,Yellow Perch,General_invertivore,3
+2009,803,11.316666666666666,Walleye,Piscivore,4
+2009,906,31.0875,Round Goby,Benthic_invertivore,1
+2010,108,1.75,Gizzard Shad,Piscivore,4
+2010,109,2.1545454545454548,Rainbow Smelt,Planktivore,2
+2010,119,0.18000000000000002,Channel Catfish,Piscivore,4
+2010,131,31.458333333333332,Trout-Perch,General_invertivore,3
+2010,132,51.268181818181816,White Perch,Piscivore,4
+2010,133,1.5045454545454546,White Bass,Piscivore,4
+2010,134,0.7789473684210526,Freshwater Drum,Benthic_invertivore,1
+2010,203,0.45,Lake Whitefish,Benthic_invertivore,1
+2010,402,0.49444444444444446,Carp,Omnivore,5
+2010,403,0.2285714285714286,Quillback,Benthic_invertivore,1
+2010,405,0.6736842105263158,White Sucker,Benthic_invertivore,1
+2010,504,0.375,Emerald Shiner,General_invertivore,3
+2010,508,10.4,Spottail Shiner,General_invertivore,3
+2010,510,36.2,Sand Shiner,Omnivore,5
+2010,511,16.883333333333333,Mimic Shiner,General_invertivore,3
+2010,707,0.15000000000000002,Logperch,Benthic_invertivore,1
+2010,801,23.27916666666667,Yellow Perch,General_invertivore,3
+2010,803,3.4166666666666665,Walleye,Piscivore,4
+2010,906,22.925,Round Goby,Benthic_invertivore,1
+2011,104,0.4,Longnose Gar,Piscivore,4
+2011,108,2.425,Gizzard Shad,Piscivore,4
+2011,109,53.269230769230774,Rainbow Smelt,Planktivore,2
+2011,119,0.1875,Channel Catfish,Piscivore,4
+2011,131,40.05555555555556,Trout-Perch,General_invertivore,3
+2011,132,25.525925925925925,White Perch,Piscivore,4
+2011,133,1.8296296296296297,White Bass,Piscivore,4
+2011,134,2.408,Freshwater Drum,Benthic_invertivore,1
+2011,203,0.26666666666666666,Lake Whitefish,Benthic_invertivore,1
+2011,402,0.45217391304347826,Carp,Omnivore,5
+2011,403,0.2181818181818182,Quillback,Benthic_invertivore,1
+2011,405,1.564,White Sucker,Benthic_invertivore,1
+2011,413,0.2,Shorthead Redhorse,Benthic_invertivore,1
+2011,504,8.940000000000001,Emerald Shiner,General_invertivore,3
+2011,508,24.081481481481482,Spottail Shiner,General_invertivore,3
+2011,511,41.138461538461534,Mimic Shiner,General_invertivore,3
+2011,601,0.2,Rock Bass,Benthic_invertivore,1
+2011,707,0.2,Logperch,Benthic_invertivore,1
+2011,801,23.374074074074073,Yellow Perch,General_invertivore,3
+2011,803,4.492857142857143,Walleye,Piscivore,4
+2011,906,13.829629629629629,Round Goby,Benthic_invertivore,1
+2012,106,0.15000000000000002,Alewife,Planktivore,2
+2012,108,6.223809523809524,Gizzard Shad,Piscivore,4
+2012,109,0.5142857142857143,Rainbow Smelt,Planktivore,2
+2012,119,0.34545454545454546,Channel Catfish,Piscivore,4
+2012,133,1.1428571428571428,White Bass,Piscivore,4
+2012,402,0.46190476190476193,Carp,Omnivore,5
+2012,403,0.2857142857142857,Quillback,Benthic_invertivore,1
+2012,405,0.6,White Sucker,Benthic_invertivore,1
+2012,413,0.2,Shorthead Redhorse,Benthic_invertivore,1
+2012,504,0.9285714285714286,Emerald Shiner,General_invertivore,3
+2012,508,11.658333333333333,Spottail Shiner,General_invertivore,3
+2012,511,104.0125,Mimic Shiner,General_invertivore,3
+2012,605,0.72,Bluegill,General_invertivore,3
+2012,610,0.2,Black Crappie,Piscivore,4
+2012,801,16.116666666666667,Yellow Perch,General_invertivore,3
+2012,803,2.058333333333333,Walleye,Piscivore,4
+2012,906,9.1125,Round Goby,Benthic_invertivore,1
+2013,108,5.921052631578947,Gizzard Shad,Piscivore,4
+2013,109,8.004166666666666,Rainbow Smelt,Planktivore,2
+2013,119,0.44666666666666666,Channel Catfish,Piscivore,4
+2013,127,0.1,Burbot,Piscivore,4
+2013,131,44.86086956521739,Trout-Perch,General_invertivore,3
+2013,132,7.140000000000001,White Perch,Piscivore,4
+2013,133,2.585,White Bass,Piscivore,4
+2013,134,1.9,Freshwater Drum,Benthic_invertivore,1
+2013,402,0.2947368421052632,Carp,Omnivore,5
+2013,403,0.17777777777777778,Quillback,Benthic_invertivore,1
+2013,405,0.47000000000000003,White Sucker,Benthic_invertivore,1
+2013,504,2.0642857142857145,Emerald Shiner,General_invertivore,3
+2013,508,14.395833333333334,Spottail Shiner,General_invertivore,3
+2013,511,73.98333333333333,Mimic Shiner,General_invertivore,3
+2013,601,0.2,Rock Bass,Benthic_invertivore,1
+2013,608,0.2,Largemouth Bass,Piscivore,4
+2013,707,0.2,Logperch,Benthic_invertivore,1
+2013,801,17.020833333333332,Yellow Perch,General_invertivore,3
+2013,803,5.7043478260869565,Walleye,Piscivore,4
+2013,906,10.1625,Round Goby,Benthic_invertivore,1
+2014,108,3.55625,Gizzard Shad,Piscivore,4
+2014,109,1.0444444444444445,Rainbow Smelt,Planktivore,2
+2014,113,0.1,Northern Pike,Piscivore,4
+2014,119,0.18571428571428572,Channel Catfish,Piscivore,4
+2014,131,12.225,Trout-Perch,General_invertivore,3
+2014,132,8.589473684210526,White Perch,Piscivore,4
+2014,133,0.9928571428571429,White Bass,Piscivore,4
+2014,134,1.7190476190476192,Freshwater Drum,Benthic_invertivore,1
+2014,203,0.15000000000000002,Lake Whitefish,Benthic_invertivore,1
+2014,402,0.3923076923076923,Carp,Omnivore,5
+2014,403,0.2142857142857143,Quillback,Benthic_invertivore,1
+2014,405,0.5304347826086957,White Sucker,Benthic_invertivore,1
+2014,412,0.1,Golden Redhorse,Benthic_invertivore,1
+2014,413,0.15000000000000002,Shorthead Redhorse,Benthic_invertivore,1
+2014,504,8.26,Emerald Shiner,General_invertivore,3
+2014,508,2.305263157894737,Spottail Shiner,General_invertivore,3
+2014,511,6.352631578947368,Mimic Shiner,General_invertivore,3
+2014,609,0.1,White Crappie,Piscivore,4
+2014,707,0.24000000000000002,Logperch,Benthic_invertivore,1
+2014,801,11.091666666666667,Yellow Perch,General_invertivore,3
+2014,803,5.233333333333333,Walleye,Piscivore,4
+2014,906,20.339130434782607,Round Goby,Benthic_invertivore,1
+2015,108,7.053846153846154,Gizzard Shad,Piscivore,4
+2015,109,16.115384615384613,Rainbow Smelt,Planktivore,2
+2015,119,0.1,Channel Catfish,Piscivore,4
+2015,131,13.608695652173914,Trout-Perch,General_invertivore,3
+2015,132,23.36111111111111,White Perch,Piscivore,4
+2015,133,1.5473684210526315,White Bass,Piscivore,4
+2015,134,0.6421052631578947,Freshwater Drum,Benthic_invertivore,1
+2015,203,0.4,Lake Whitefish,Benthic_invertivore,1
+2015,402,0.3,Carp,Omnivore,5
+2015,403,0.125,Quillback,Benthic_invertivore,1
+2015,405,0.825,White Sucker,Benthic_invertivore,1
+2015,413,0.1,Shorthead Redhorse,Benthic_invertivore,1
+2015,504,1.61,Emerald Shiner,General_invertivore,3
+2015,508,2.0647058823529414,Spottail Shiner,General_invertivore,3
+2015,511,57.00555555555555,Mimic Shiner,General_invertivore,3
+2015,601,0.2,Rock Bass,Benthic_invertivore,1
+2015,607,0.1,Smallmouth Bass,Piscivore,4
+2015,707,0.13333333333333333,Logperch,Benthic_invertivore,1
+2015,801,22.0125,Yellow Perch,General_invertivore,3
+2015,803,6.008695652173913,Walleye,Piscivore,4
+2015,906,43.1,Round Goby,Benthic_invertivore,1
+2016,104,0.1,Longnose Gar,Piscivore,4
+2016,108,2.3249999999999997,Gizzard Shad,Piscivore,4
+2016,109,5.242857142857143,Rainbow Smelt,Planktivore,2
+2016,113,0.1,Northern Pike,Piscivore,4
+2016,119,0.125,Channel Catfish,Piscivore,4
+2016,131,62.36666666666667,Trout-Perch,General_invertivore,3
+2016,132,35.6875,White Perch,Piscivore,4
+2016,133,0.5772727272727273,White Bass,Piscivore,4
+2016,134,0.8380952380952381,Freshwater Drum,Benthic_invertivore,1
+2016,203,0.2,Lake Whitefish,Benthic_invertivore,1
+2016,402,0.5230769230769231,Carp,Omnivore,5
+2016,403,0.15000000000000002,Quillback,Benthic_invertivore,1
+2016,405,0.50625,White Sucker,Benthic_invertivore,1
+2016,504,0.9818181818181818,Emerald Shiner,General_invertivore,3
+2016,508,2.857142857142857,Spottail Shiner,General_invertivore,3
+2016,511,49.72380952380952,Mimic Shiner,General_invertivore,3
+2016,601,0.1,Rock Bass,Benthic_invertivore,1
+2016,605,0.2,Bluegill,General_invertivore,3
+2016,707,0.2833333333333333,Logperch,Benthic_invertivore,1
+2016,801,16.016666666666666,Yellow Perch,General_invertivore,3
+2016,803,1.1333333333333333,Walleye,Piscivore,4
+2016,906,13.154166666666667,Round Goby,Benthic_invertivore,1
+2017,106,0.2,Alewife,Planktivore,2
+2017,108,6.4944444444444445,Gizzard Shad,Piscivore,4
+2017,109,2.5083333333333333,Rainbow Smelt,Planktivore,2
+2017,113,0.1,Northern Pike,Piscivore,4
+2017,118,0.1,Brown Bullhead,Omnivore,5
+2017,119,0.15000000000000002,Channel Catfish,Piscivore,4
+2017,131,33.7375,Trout-Perch,General_invertivore,3
+2017,132,4.876190476190476,White Perch,Piscivore,4
+2017,133,0.8705882352941177,White Bass,Piscivore,4
+2017,134,1.09,Freshwater Drum,Benthic_invertivore,1
+2017,203,0.1,Lake Whitefish,Benthic_invertivore,1
+2017,402,0.32666666666666666,Carp,Omnivore,5
+2017,403,0.26,Quillback,Benthic_invertivore,1
+2017,405,0.5352941176470588,White Sucker,Benthic_invertivore,1
+2017,413,0.2,Shorthead Redhorse,Benthic_invertivore,1
+2017,504,3.0615384615384613,Emerald Shiner,General_invertivore,3
+2017,508,4.523529411764706,Spottail Shiner,General_invertivore,3
+2017,511,43.34347826086957,Mimic Shiner,General_invertivore,3
+2017,608,0.1,Largemouth Bass,Piscivore,4
+2017,707,0.47500000000000003,Logperch,Benthic_invertivore,1
+2017,801,20.9875,Yellow Perch,General_invertivore,3
+2017,803,3,Walleye,Piscivore,4
+2017,906,11.375,Round Goby,Benthic_invertivore,1
+2018,108,1.9,Gizzard Shad,Piscivore,4
+2018,109,17.4,Rainbow Smelt,Planktivore,2
+2018,119,0.24,Channel Catfish,Piscivore,4
+2018,131,23.118181818181817,Trout-Perch,General_invertivore,3
+2018,132,8.673913043478262,White Perch,Piscivore,4
+2018,133,1.5947368421052632,White Bass,Piscivore,4
+2018,134,0.6157894736842106,Freshwater Drum,Benthic_invertivore,1
+2018,402,0.2642857142857143,Carp,Omnivore,5
+2018,403,0.1,Quillback,Benthic_invertivore,1
+2018,405,0.5157894736842106,White Sucker,Benthic_invertivore,1
+2018,504,2.2399999999999998,Emerald Shiner,General_invertivore,3
+2018,508,1.3894736842105264,Spottail Shiner,General_invertivore,3
+2018,510,0.2,Sand Shiner,Omnivore,5
+2018,511,33.31,Mimic Shiner,General_invertivore,3
+2018,707,0.7571428571428571,Logperch,Benthic_invertivore,1
+2018,801,18.383333333333333,Yellow Perch,General_invertivore,3
+2018,803,5.741666666666666,Walleye,Piscivore,4
+2018,906,3.1739130434782608,Round Goby,Benthic_invertivore,1
+2019,106,2.9250000000000003,Alewife,Planktivore,2
+2019,108,1.945,Gizzard Shad,Piscivore,4
+2019,109,7.352380952380952,Rainbow Smelt,Planktivore,2
+2019,118,0.1,Brown Bullhead,Omnivore,5
+2019,119,3.24,Channel Catfish,Piscivore,4
+2019,130,0.15000000000000002,Ninespine Stickleback,General_invertivore,3
+2019,131,21.558333333333334,Trout-Perch,General_invertivore,3
+2019,132,11.08695652173913,White Perch,Piscivore,4
+2019,133,1.2608695652173914,White Bass,Piscivore,4
+2019,134,1.31,Freshwater Drum,Benthic_invertivore,1
+2019,203,0.15000000000000002,Lake Whitefish,Benthic_invertivore,1
+2019,402,0.19375,Carp,Omnivore,5
+2019,403,0.3,Quillback,Benthic_invertivore,1
+2019,405,0.46842105263157896,White Sucker,Benthic_invertivore,1
+2019,413,0.1,Shorthead Redhorse,Benthic_invertivore,1
+2019,504,0.3666666666666667,Emerald Shiner,General_invertivore,3
+2019,508,1.338888888888889,Spottail Shiner,General_invertivore,3
+2019,510,10.607142857142858,Sand Shiner,Omnivore,5
+2019,511,50.445454545454545,Mimic Shiner,General_invertivore,3
+2019,608,0.1,Largemouth Bass,Piscivore,4
+2019,707,2.0666666666666664,Logperch,Benthic_invertivore,1
+2019,801,10.683333333333334,Yellow Perch,General_invertivore,3
+2019,803,3.779166666666667,Walleye,Piscivore,4
+2019,906,13.720833333333333,Round Goby,Benthic_invertivore,1
+2020,108,2.8625,Gizzard Shad,Piscivore,4
+2020,109,2.2,Rainbow Smelt,Planktivore,2
+2020,119,0.4,Channel Catfish,Piscivore,4
+2020,131,14.025,Trout-Perch,General_invertivore,3
+2020,132,80.425,White Perch,Piscivore,4
+2020,133,0.2,White Bass,Piscivore,4
+2020,134,1.3,Freshwater Drum,Benthic_invertivore,1
+2020,402,0.23333333333333334,Carp,Omnivore,5
+2020,403,0.1,Quillback,Benthic_invertivore,1
+2020,405,0.62,White Sucker,Benthic_invertivore,1
+2020,504,3.4,Emerald Shiner,General_invertivore,3
+2020,508,0.95,Spottail Shiner,General_invertivore,3
+2020,511,44.7625,Mimic Shiner,General_invertivore,3
+2020,707,0.1,Logperch,Benthic_invertivore,1
+2020,801,47.9125,Yellow Perch,General_invertivore,3
+2020,803,1.925,Walleye,Piscivore,4
+2020,906,9.5,Round Goby,Benthic_invertivore,1
+2021,108,3.985,Gizzard Shad,Piscivore,4
+2021,109,4.56,Rainbow Smelt,Planktivore,2
+2021,113,0.1,Northern Pike,Piscivore,4
+2021,119,0.1375,Channel Catfish,Piscivore,4
+2021,131,36.7,Trout-Perch,General_invertivore,3
+2021,132,40.733333333333334,White Perch,Piscivore,4
+2021,133,0.405,White Bass,Piscivore,4
+2021,134,0.719047619047619,Freshwater Drum,Benthic_invertivore,1
+2021,203,0.2,Lake Whitefish,Benthic_invertivore,1
+2021,402,0.23333333333333334,Carp,Omnivore,5
+2021,403,0.23333333333333334,Quillback,Benthic_invertivore,1
+2021,405,0.35333333333333333,White Sucker,Benthic_invertivore,1
+2021,411,0.2,Black Redhorse,Benthic_invertivore,1
+2021,504,0.3666666666666667,Emerald Shiner,General_invertivore,3
+2021,508,2.742857142857143,Spottail Shiner,General_invertivore,3
+2021,510,74.475,Sand Shiner,Omnivore,5
+2021,511,73.89999999999999,Mimic Shiner,General_invertivore,3
+2021,604,0.3,Pumpkinseed,Benthic_invertivore,1
+2021,605,0.15000000000000002,Bluegill,General_invertivore,3
+2021,607,0.1,Smallmouth Bass,Piscivore,4
+2021,608,0.25,Largemouth Bass,Piscivore,4
+2021,610,0.2,Black Crappie,Piscivore,4
+2021,707,0.2,Logperch,Benthic_invertivore,1
+2021,801,30.325,Yellow Perch,General_invertivore,3
+2021,803,4.8,Walleye,Piscivore,4
+2021,906,22.325,Round Goby,Benthic_invertivore,1
