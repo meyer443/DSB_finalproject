@@ -18,7 +18,7 @@ setwd("H:/DataScienceFinalProject")
 # Load required packages --------------------------------------------------
 library(tidyverse)
 library(readxl)
-library(ggplot2)
+# library(ggplot2)
 library(GGally)
 library(vegan)
 
@@ -431,7 +431,6 @@ card2 <-
   mutate(Age = replace(Age, Age == 7, 5)) %>%
   mutate(Age = replace(Age, Age %in% NA, 5))
 
-# Age 0 fish --------------------------------------------------------------
 
 # age 0 with weights
 foragedf0 <- 
@@ -834,10 +833,10 @@ forgraph <- forgraph %>% filter(SYear != 1970)
 ggplot(forgraph) +
   aes(x = SYear, y = Log_Biomass_per_Trawl) +
   geom_point(size = 2) +
-  geom_smooth(se = FALSE, linewidth = 1.5) +
+  geom_smooth(se = TRUE, linewidth = 1.5) +
   xlab("Year") +
   ylab(expression(paste("Log biomass (kg " %*% " minute"^"-1"*")"))) +
-  ggtitle("Fish biomass per trawl") +
+  ggtitle("Fish biomass per tow minute") +
   theme_bw(base_size = 16)
 # ggsave(filename = "biomassplot.jpg", device='jpg', dpi=700)
 
@@ -849,7 +848,6 @@ feedingpertrawl <-
   group_by(SYear, Func_group) %>%
   summarise(biomass = sum(biomass),
             bioper = sum(BioPerTrawl))
-
 # write_csv(feedingpertrawl, "FuncEffort.csv")
 
 # log-transform bio
@@ -869,10 +867,10 @@ cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2"
 ggplot(feedgraph) +
   aes(x = SYear, y = Log_Biomass_per_Trawl, group = Func_group) +
   # geom_point(aes(shape = Func_group, colour = Func_group), size = 2.5) +
-  geom_smooth(aes(color = Func_group), se = FALSE, linewidth = 1.5) +
+  geom_smooth(aes(color = Func_group), se = TRUE, linewidth = 1.5) +
   xlab("Year") +
   ylab(expression(paste("Log biomass (kg " %*% " minute"^"-1"*")"))) +
-  ggtitle("Feeding functional group biomass per trawl") +
+  ggtitle("Feeding functional group biomass per tow minute") +
   labs(color="Functional Group") +
   theme_bw(base_size = 15) +
   theme(legend.position = "bottom") +
@@ -917,10 +915,10 @@ cpue <-
 ggplot(cpue) +
   aes(x = SYear, y = logcpue) +
   geom_point(size = 2.5) +
-  geom_smooth(linewidth = 1.5, se = FALSE) +
+  geom_smooth(linewidth = 1.5, se = TRUE) +
   xlab("Year") +
   ylab(expression(paste("Log cpue (no. fish " %*% " minute"^"-1"*")"))) +
-  ggtitle("CPUE per trawl") +
+  ggtitle("Count per tow minute") +
   theme_bw(base_size = 16)
 # ggsave(filename = "cpueplot.jpg", device='jpg', dpi=700)
 
